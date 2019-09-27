@@ -1,0 +1,2 @@
+.range-inputs{margin:25px 0;width:100%;display:flex;justify-content:space-between;align-items:center}.range-inputs input[type="number"]{height:30px;border-radius:5px;border:none;border:1px solid black;width:40%;text-align:right}.range-sliders{position:relative;height:30px;width:calc(100% - 30px)}.range-sliders .sliders{position:absolute;top:0;font-size:30px;cursor:pointer}.range-sliders #line{width:calc(100% + 30px);top:9px;position:absolute;border-top:1px solid black}
+
